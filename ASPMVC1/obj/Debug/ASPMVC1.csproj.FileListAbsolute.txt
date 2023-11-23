@@ -1,0 +1,101 @@
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\csc.exe
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\System.Collections.Immutable.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\vbc.exe
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe.config
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\Microsoft.Web.Infrastructure.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Razor.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Razor.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csprojResolveAssemblyReference.cache
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll.config
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\ASPMVC1.pdb
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.pdb
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\csc.exe
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\vbc.exe
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll.config
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.pdb
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Razor.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Razor.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.CopyComplete
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.pdb
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\csc.exe
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll.config
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.pdb
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.pdb
