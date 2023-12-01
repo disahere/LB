@@ -1,0 +1,249 @@
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\csc.exe
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\System.Collections.Immutable.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\vbc.exe
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe.config
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\Microsoft.Web.Infrastructure.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Razor.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Razor.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.xml
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csprojResolveAssemblyReference.cache
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll.config
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\bin\ASPMVC1.pdb
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.dll
+D:\Install\Programming\VS2015\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.pdb
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\csc.exe
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\vbc.exe
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll.config
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.pdb
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Razor.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Razor.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.xml
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.CopyComplete
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.dll
+D:\OneDrive\DocumentsHome\Programming\InterestPrograms\VS2013\Content 2013\content\sources\aspnet\files\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.pdb
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\csc.exe
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll.config
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.pdb
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.dll
+C:\Users\ADMIN\Desktop\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.pdb
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\csc.exe
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\vbc.exe
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll.config
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\ASPMVC1.pdb
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Razor.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Razor.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.AssemblyReference.cache
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.CoreCompileInputs.cache
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.CopyComplete
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.pdb
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\csc.exe
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\vbc.exe
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll.config
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\ASPMVC1.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\ASPMVC1.pdb
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Identity.Core.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Logging.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Options.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Win32.Registry.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Buffers.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.ComponentModel.Annotations.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Memory.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Numerics.Vectors.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Security.AccessControl.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Security.Cryptography.Xml.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Security.Permissions.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Security.Principal.Windows.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Text.Encodings.Web.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Razor.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Identity.Core.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Logging.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Options.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Buffers.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Memory.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Numerics.Vectors.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Text.Encodings.Web.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Razor.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Webpages.Razor.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Helpers.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\System.Web.Mvc.xml
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.AssemblyReference.cache
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.CoreCompileInputs.cache
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.csproj.CopyComplete
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\obj\Debug\ASPMVC1.pdb
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Newtonsoft.Json.dll
+C:\Users\elont\OneDrive\Рабочий стол\aspmvc original\ASPMVC1\ASPMVC1\bin\Newtonsoft.Json.xml
