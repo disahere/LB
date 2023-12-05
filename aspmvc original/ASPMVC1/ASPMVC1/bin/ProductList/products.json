@@ -1,0 +1,76 @@
+[
+  {
+    "Id": 1,
+    "Name": "TacticMaster Elite Boots",
+    "Description": "Легкі тактичні черевики, які чудово підійдуть для різноманітних умов та широкої сфери застосування.",
+    "Price": 3468,
+    "ImageUrl": "https://nailthetrail.com/wp-content/uploads/2018/03/Lowa-Zephyr-GTX-Mid.jpg",
+    "Category": "Екіпіровка"
+  },
+
+  {
+    "Id": 2,
+    "Name": "ShieldGuard Tactical Goggles",
+    "Description": "Низькопрофільні тактичні окуляри з панорамним видошукачем. Забезпечують відмінний захист від осколків та ультрафіолетового випромінювання UVA і UVB.",
+    "Price": 4878,
+    "ImageUrl": "https://cdn11.bigcommerce.com/s-98f3d/images/stencil/1280x1280/products/3204/14223/ESS_Profile_NVG_Goggles_Terrain_Tan__50105.1674142564.jpg?c=2",
+    "Category": "Екіпіровка"
+  },
+  
+  {
+    "Id": 3,
+    "Name": "StealthOps Carbine RF-15",
+    "Description": "Технологічний карабін на базі AR-15, вирізняється високою точністю і керованістю, що робить його гарним вибором для різних завдань.",
+    "Price": 39500,
+    "ImageUrl": "https://image.primaryarms.com/production/SSP%20Applications/NetSuite%20Inc.%20-%20SCA%20Mont%20Blanc/Development/img/FR16-458SOC-15MHR3_00.jpg?resizeid=7&resizeh=1100&resizew=1100",
+    "Category": "Зброя"
+  },
+  {
+    "Id": 4,
+    "Name": "CommandoGear Assault Pack",
+    "Description": "Міцний тактичний рюкзак зеленого кольору, ідеальний для військових, правоохоронців та активного відпочинку.",
+    "Price": 2964,
+    "ImageUrl": "https://pbs.twimg.com/media/DefPOXLVQAAY6Z3?format=jpg&name=900x900",
+    "Category": "Екіпіровка"
+  },
+  {
+    "Id": 5,
+    "Name": "StrikeForce Tactical Gloves",
+    "Description": "Тактичні рукавички з деталями для максимального комфорту та захисту.",
+    "Price": 1600,
+    "ImageUrl": "https://footwearnews.com/wp-content/uploads/2020/06/tactical-gloves-3.jpg?w=1024&h=683&crop=1",
+    "Category": "Екіпіровка"
+  },
+  {
+    "Id": 6,
+    "Name": "ReconGuard Tactical Helmet",
+    "Description": "Тактичний шолом з інтегрованими активними навушниками та кавером універсального розміру.",
+    "Price": 17000,
+    "ImageUrl": "https://static.wixstatic.com/media/f7d0a1_8a15aafeae7e43f2a7689e9e787d2c5f~mv2.jpg/v1/fill/w_500,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f7d0a1_8a15aafeae7e43f2a7689e9e787d2c5f~mv2.jpg",
+    "Category": "Екіпіровка"
+  },
+  {
+    "Id": 7,
+    "Name": "AGM NVG-50 NW2I",
+    "Description": "AGM NVG-50 - це двоканальна система нічного бачення з широким полем зору (51°), що дозволяє отримувати велике поле видимості без переміщення бінокля.",
+    "Price": 223049,
+    "ImageUrl": "https://www.enricospadetto.it/wp-content/uploads/2020/07/visore-notturno-classico-agm-nvg-50-8.png",
+    "Category": "Екіпіровка"
+  },
+  {
+    "Id": 8,
+    "Name": "Christensen Arms Automatic Gen 2.3 24",
+    "Description": "Карабіни Christensen Arms розроблені на основі системи Remington 700 і сумісні за посадковими місцями з Rem 700.",
+    "Price": 113280,
+    "ImageUrl": "https://images.eurooptic.com/images/products/christensen-arms/christensen-arms-mpr-sa-24inch-black-new-style-rifle-801-03001-02.JPG?w=1100",
+    "Category": "Зброя"
+  },
+  {
+    "Id": 9,
+    "Name": "test",
+    "Description": "TEST",
+    "Price": 99999999999,
+    "ImageUrl": "",
+    "Category": "Зброя"
+  }
+]

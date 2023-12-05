@@ -1,0 +1,100 @@
+﻿@model List<ASPMVC1.Models.UserModel>
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f8f9fa;
+        color: #343a40;
+        margin: 0;
+        display: flex;
+        height: 100vh;
+    }
+
+    #sidebar {
+        background-color: #343a40;
+        color: #fff;
+        width: 200px;
+        padding: 20px;
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .tab {
+        background-color: #007bff;
+        color: #fff;
+        padding: 10px;
+        cursor: pointer;
+        margin-bottom: 10px;
+    }
+
+    .tab:hover {
+        background-color: #0056b3;
+    }
+
+    #content {
+        flex: 1;
+        padding: 20px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: #fff;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    th, td {
+        border: 1px solid #dee2e6;
+        padding: 12px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #007bff;
+        color: #fff;
+    }
+
+    tr:hover {
+        background-color: #f1f1f1;
+    }
+
+    .action-link {
+        color: #dc3545;
+        text-decoration: none;
+        cursor: pointer;
+    }
+</style>
+
+<div id="sidebar">
+    <div class="tab" onclick="toggleTab('userList')">User List</div>
+</div>
+
+<div id="content">
+    <div class="tab-content active" id="userList">
+        <h2>User List</h2>
+        <table>
+            <tr>
+                <th>Username</th>
+                <th>Is Admin</th>
+                <th>Action</th>
+            </tr>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Username</td>
+                    <td>@user.IsAdmin</td>
+                    <td>
+                        @Html.ActionLink("Delete", "DeleteUser", "Admin", new { username = user.Username }, new { @class = "action-link" })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script>
+    function toggleTab(tabId) {
+        $('.tab-content').removeClass('active');
+        $('#' + tabId).addClass('active');
+    }
+</script>
